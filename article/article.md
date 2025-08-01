@@ -77,4 +77,4 @@ JavaScript. С другой стороны браузер не успевает 
 шестьдесят раз в секунду. Поэтому замеры для ста тысяч я буду считать в
 node.js.
 
-
+![Кадр из демонстрации.](https://raw.githubusercontent.com/StanislavVolodarskiy/collision/refs/heads/main/article/demo.png)
