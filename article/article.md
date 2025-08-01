@@ -77,4 +77,9 @@ JavaScript. С другой стороны браузер не успевает 
 шестьдесят раз в секунду. Поэтому замеры для ста тысяч я буду считать в
 node.js.
 
+[Демонстрация](https://stanislavvolodarskiy.github.io/collision/) двигает
+*8000* шаров радиусом от *80* до *2.5*. Шары упруго отталкиваются друг от
+друга и от стенок. В заголовке минимальный/текущий/максимальный FPS и
+статистика рассчёта столкновений.
+
 ![Кадр из демонстрации.](https://raw.githubusercontent.com/StanislavVolodarskiy/collision/refs/heads/main/article/demo.png)
