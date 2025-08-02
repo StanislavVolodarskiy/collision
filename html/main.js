@@ -7,7 +7,7 @@ import * as physics from './modules/physics.js';
 import { mulberry32 } from './modules/mulberry32.js';
 
 const main = () => {
-    const body = document.getElementsByTagName('body')[0];
+    const body = document.getElementsById('demo');
     const width = 1400;
     const height = 600;
     dom.createTextNode(body, 'FPS: ');
